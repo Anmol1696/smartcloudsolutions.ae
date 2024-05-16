@@ -1,11 +1,11 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    assetPrefix: 'https://www.smartcloudsolutions.ae',
+    assetPrefix: 'https://raw.githubusercontent.com/Anmol1696/smartcloudsolutions.ae/gh-pages/',
     basePath: '',
     trailingSlash: true,
     reactStrictMode: true,
     images: {
-        domains: ['www.smartcloudsolutions.ae'], // Add any external domains if needed
+        domains: ['raw.githubusercontent.com'], // Add any external domains if needed
     },
     env: {
         CUSTOM_KEY: 'value', // Example environment variable
