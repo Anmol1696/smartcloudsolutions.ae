@@ -10,6 +10,7 @@ const nextConfig = {
     env: {
         CUSTOM_KEY: 'value', // Example environment variable
     },
+    output: 'export' // Enable static export
 };
 
 export default nextConfig;
