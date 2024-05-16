@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    assetPrefix: 'https://raw.githubusercontent.com/Anmol1696/smartcloudsolutions.ae/gh-pages/',
+    assetPrefix: '/',
     basePath: '',
     trailingSlash: true,
     reactStrictMode: true,
