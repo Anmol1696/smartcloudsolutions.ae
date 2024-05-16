@@ -1,11 +1,11 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    assetPrefix: '/',
+    assetPrefix: 'https://www.smartcloudsolutions.ae',
     basePath: '',
     trailingSlash: true,
     reactStrictMode: true,
     images: {
-        domains: [], // Add any external domains if needed
+        domains: ['www.smartcloudsolutions.ae'], // Add any external domains if needed
     },
     env: {
         CUSTOM_KEY: 'value', // Example environment variable

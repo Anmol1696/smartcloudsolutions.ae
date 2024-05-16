@@ -38,7 +38,7 @@ export default function Home() {
           <section id="contact" className="my-8">
             <h2 className="text-3xl font-semibold">Contact Us</h2>
             <p className="mt-4">Email: info@smartcloudsolutions.ae</p>
-            <p>Phone: +971 123 4567</p>
+            <p>Phone: +971 58 697 8210</p>
           </section>
         </main>
 
